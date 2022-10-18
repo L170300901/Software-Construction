@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17c54f20-a62b-4879-b7d5-dd29b8fb1c3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/P1/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2/FriendshipGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P2/FriendshipGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P3/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P3/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/ChessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P3/ChessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/Chessfinal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P3/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/Gofinal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P3/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P3/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/chess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/chessdata.temp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P3/chessdata.temp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/chessinit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/getchessdata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/getgodata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/go.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/godata.temp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P3/godata.temp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3/goinit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/P1/graph/GraphStaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/P1/graph/GraphStaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/P3/ChessGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/P3/ChessGameTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P3/chessBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P3/chessPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P3/goPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P3/Mian.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/P3/ChessGameTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P3/Piece.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P3/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P3/Position.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P3/goPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P3/godata.temp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/P1/graph/GraphStaticTest.java" />
+        <option value="$PROJECT_DIR$/src/P2/FriendshipGraph.java" />
+        <option value="$PROJECT_DIR$/src/P3.0/Action.kt" />
+        <option value="$PROJECT_DIR$/src/P1/graph/Graph.java" />
+        <option value="$PROJECT_DIR$/src/P3.0/Piece.kt" />
+        <option value="$PROJECT_DIR$/src/P3.0/Game.kt" />
+        <option value="$PROJECT_DIR$/src/P3.0/chessGame.kt" />
+        <option value="$PROJECT_DIR$/src/P3.0/uig.kt" />
+        <option value="$PROJECT_DIR$/test/P1/graph/ConcreteEdgesGraphTest.java" />
+        <option value="$PROJECT_DIR$/src/P3/Action.java" />
+        <option value="$PROJECT_DIR$/src/P3/Board.java" />
+        <option value="$PROJECT_DIR$/src/P3/chessAction.java" />
+        <option value="$PROJECT_DIR$/src/P3/chessGame.java" />
+        <option value="$PROJECT_DIR$/src/P3/chessPlayer.java" />
+        <option value="$PROJECT_DIR$/src/P3/Game.java" />
+        <option value="$PROJECT_DIR$/src/P3/TestForP3.java" />
+        <option value="$PROJECT_DIR$/src/P3/TestForGame.java" />
+        <option value="$PROJECT_DIR$/src/P3/Position.java" />
+        <option value="$PROJECT_DIR$/src/P3/Player.java" />
+        <option value="$PROJECT_DIR$/src/P3/Piece.java" />
+        <option value="$PROJECT_DIR$/src/P3/Mian.java" />
+        <option value="$PROJECT_DIR$/src/P3/goPlayer.java" />
+        <option value="$PROJECT_DIR$/src/P3/goGame.java" />
+        <option value="$PROJECT_DIR$/src/P3/goAction.java" />
+        <option value="$PROJECT_DIR$/src/P3/chessBoard.java" />
+        <option value="$PROJECT_DIR$/src/P3/chessPiece.java" />
+        <option value="$PROJECT_DIR$/src/P3/chessPosition.java" />
+        <option value="$PROJECT_DIR$/src/P3/goBoard.java" />
+        <option value="$PROJECT_DIR$/src/P3/goPiece.java" />
+        <option value="$PROJECT_DIR$/src/P3/goPosition.java" />
+        <option value="$PROJECT_DIR$/test/P3/ChessGameTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcreteVerticesGraph.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="poet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="P2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2_11703006270.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2_11703006270.0" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="P3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Mian">
+    <configuration name="FriendshipGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P2.FriendshipGraph" />
+      <module name="Lab2_11703006270.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P3.Mian" />
+      <module name="Lab2_11703006270.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2_11703006270.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="P3" />
+      <option name="MAIN_CLASS_NAME" value="P3.ChessGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessGameTest.chesseatTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2_11703006270.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="P3" />
+      <option name="MAIN_CLASS_NAME" value="P3.ChessGameTest" />
+      <option name="METHOD_NAME" value="chesseatTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FriendshipGraphTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2_11703006270.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="P2" />
+      <option name="MAIN_CLASS_NAME" value="P2.FriendshipGraphTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mian" />
+        <item itemvalue="JUnit.ChessGameTest" />
+        <item itemvalue="JUnit.ChessGameTest.chesseatTest" />
+        <item itemvalue="JUnit.FriendshipGraphTest" />
+        <item itemvalue="Application.FriendshipGraph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17c54f20-a62b-4879-b7d5-dd29b8fb1c3c" name="Default Changelist" comment="" />
+      <created>1553918019389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553918019389</updated>
+      <workItem from="1553918023433" duration="8683000" />
+      <workItem from="1553929742925" duration="997000" />
+      <workItem from="1553930786776" duration="501000" />
+      <workItem from="1553931322979" duration="3423000" />
+      <workItem from="1553944292712" duration="5422000" />
+      <workItem from="1553954056951" duration="100000" />
+      <workItem from="1553954203699" duration="923000" />
+      <workItem from="1553955384079" duration="57000" />
+      <workItem from="1553955511116" duration="243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ConcreteEdgesGraphTest - 2019.03.30 at 13h 15m 05s.xml">
+      <configuration name="ConcreteEdgesGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConcreteVerticesGraphTest - 2019.03.30 at 13h 15m 30s.xml">
+      <configuration name="ConcreteVerticesGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphStaticTest - 2019.03.30 at 13h 15m 58s.xml">
+      <configuration name="GraphStaticTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConcreteVerticesGraphTest - 2019.03.30 at 13h 19m 40s.xml">
+      <configuration name="ConcreteVerticesGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphPoetTest - 2019.03.30 at 14h 10m 39s.xml">
+      <configuration name="GraphPoetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FriendshipGraphTest - 2019.03.30 at 14h 33m 00s.xml">
+      <configuration name="FriendshipGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessGameTest - 2019.03.30 at 15h 09m 32s.xml">
+      <configuration name="ChessGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FriendshipGraphTest - 2019.03.30 at 15h 10m 19s.xml">
+      <configuration name="FriendshipGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessGameTest - 2019.03.30 at 21h 42m 25s.xml">
+      <configuration name="ChessGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessGameTest - 2019.03.30 at 21h 43m 03s.xml">
+      <configuration name="ChessGameTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20349000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27485853" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.90230906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.634103" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24252222" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.740675" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.053285968" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/P3/ChessGameTest.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab2_11703006270_0$ChessGameTest.ic" NAME="ChessGameTest Coverage Results" MODIFIED="1553920045944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P3.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/P2/FriendshipGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3.0/Player.kt" />
+    <entry file="file://$PROJECT_DIR$/src/P3.0/Piece.kt" />
+    <entry file="file://$PROJECT_DIR$/src/P3.0/chessGame.kt" />
+    <entry file="file://$PROJECT_DIR$/src/P1/graph/ConcreteEdgesGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3.0/Position.kt" />
+    <entry file="file://$PROJECT_DIR$/src/P3.0/Action.kt" />
+    <entry file="file://$PROJECT_DIR$/src/P3.0/Board.kt" />
+    <entry file="file://$PROJECT_DIR$/src/P2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3.0/uig.kt" />
+    <entry file="file://$PROJECT_DIR$/test/P1/graph/GraphStaticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/P1/graph/GraphInstanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/P1/graph/ConcreteVerticesGraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P1/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/goinit.java" />
+    <entry file="file://$PROJECT_DIR$/src/P1/graph/ConcreteVerticesGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="58" column="72" selection-start-line="58" selection-start-column="72" selection-end-line="58" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P1/poet/GraphPoet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/chessinit.java" />
+    <entry file="file://$PROJECT_DIR$/src/P3.0/Game.kt" />
+    <entry file="file://$PROJECT_DIR$/test/P1/graph/ConcreteEdgesGraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="16" selection-start-line="5" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/getgodata.java" />
+    <entry file="file://$PROJECT_DIR$/src/P3/go.java" />
+    <entry file="file://$PROJECT_DIR$/src/P3/getchessdata.java" />
+    <entry file="file://$PROJECT_DIR$/src/P3/chess.java" />
+    <entry file="file://$PROJECT_DIR$/src/P3/Chessfinal.java" />
+    <entry file="file://$PROJECT_DIR$/src/P1/poet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/TestForP3.java" />
+    <entry file="file://$PROJECT_DIR$/src/P3/chessdata.temp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/TestForGame.java" />
+    <entry file="file://$PROJECT_DIR$/test/P2/FriendshipGraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/chessAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/chessGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/chessPiece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/chessPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/goAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/goBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/goGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/goPiece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/goPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/godata.temp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/chessBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/chessPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/goPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/Mian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/Piece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P3/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/P3/ChessGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
